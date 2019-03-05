@@ -1,5 +1,5 @@
 # Bulle_Game
-A codesign project implementing a game implemented in 3 different languages.
+A codesign project of a simple game implemented in 3 different languages.
 
 
 Le but de ce travail fut developer une trousse d’instructions utiles pour implémenter la fonctionnalité  de gestion de la taille et de la position des disques (pas d’instructions d’entrées/sorties) pour le Jeu Bulle.
